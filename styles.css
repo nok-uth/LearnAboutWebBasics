@@ -56,6 +56,7 @@ section.projects
     padding: 15px;
     padding-top: 0px;
     display: flex;
+    
 }
 
 section.projects div
@@ -64,6 +65,7 @@ section.projects div
     border-radius: 5px;
     padding: 15px;
     margin-right: 15px;
+    text-shadow: #121212;
 }
 
 footer.findme
